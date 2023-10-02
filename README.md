@@ -4,5 +4,5 @@
 
 Por isso, comecei meus estudos e hoje, sou entusiasta da programação e mostro alguns dos meus projetos por aqui.
 
-• Webdev 🌻
-• Pronome: ele/dele 💚
+- Webdev 🌻
+- Pronome: ele/dele 💚
