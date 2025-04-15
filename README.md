@@ -1,8 +1,7 @@
-## Olá, bem-vindo ao meu Git. 🤍
+## Boas vindas ao meu Git.
 
-> Enxerguei no meu cotidiano momentos onde a programação poderia ser aplicada. Assim, busco através do desenvolvimento web facilitar processos do dia a dia ou torná-los mais atrativos.
+> Olá, meu nome é Isaac.
+Sou um desenvolvedor autodidata, entusiasta da inovação, em busca de novos desafios.
 
-Por isso, comecei meus estudos e hoje, sou entusiasta da programação e mostro alguns dos meus projetos por aqui.
-
-- Webdev 🌻
-- Pronome: ele/dele 💚
+Tenho experiência em desenvolvimento fullstack, trabalhando com React, Typescript, Node.js e diferentes bancos de dados. 👨‍💻
+Além disso, possuo inglês intermediário, noções de CI/CD e padrões de código. 🌱
